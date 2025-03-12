@@ -1,9 +1,8 @@
 # Heart Disease Prediction Project
 
 ## Group Members
-- [Your Name] – [Your Student ID]
-- [Teammate Name] – [Teammate Student ID]
-- [Teammate Name] – [Teammate Student ID]
+- Onajemo Joshua
+- Precious Nwaokenneya
 
 ---
 
@@ -47,7 +46,7 @@ The dataset contains medical and lifestyle information from patients, focusing o
 ### Steps to Access the Project
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/heart-disease-prediction.git
+   git clone https://github.com/Joshuaogaga/Heart-Disease-Prediction.git
    cd heart-disease-prediction
    ```
 
