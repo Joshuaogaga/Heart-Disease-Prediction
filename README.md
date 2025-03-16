@@ -77,7 +77,7 @@ The dataset contains medical and lifestyle information from patients, focusing o
      ```bash
      streamlit run scr/app.py
      ```
-   - **Please note**, random_forest_model.pkl and stacking_model.pkl was not uploaded here due to his large size. So to successfully run this project, kindly save this models on the model folder before running it to avoid errors.
+   - **Please note**, **random_forest_model.pkl and stacking_model.pkl** was not uploaded here due to his large size. So to successfully run this project, kindly save this models on the model folder before running it to avoid errors.
 ---
 
 ## Evaluation Metrics
