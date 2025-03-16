@@ -35,6 +35,6 @@ Project maintainers who do not follow or enforce the Code of Conduct in good fai
 
 This Code of Conduct is adapted from the [Contributor Covenant homepage](http://contributor-covenant.org/version/1/4), version 1.4.
 
-## Agreed on September 04th, 2024 by:
+## Agreed on March 7th, 2025 by:
 * Joshua Onajemo
 * Precious Nwaokenneya
