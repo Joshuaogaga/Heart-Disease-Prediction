@@ -96,7 +96,8 @@ heart-disease-prediction/
 ├── scr/                    # Python scripts for data preprocessing and model training
 ├── models/                 # Saved models 
 ├── README.md               # Project description and instructions
-└── requirements.txt        # Dependencies
+├── report.md               # Brief summary of the project and key findings
+└── genv.yaml               # Dependencies
 ```
 
 ---
