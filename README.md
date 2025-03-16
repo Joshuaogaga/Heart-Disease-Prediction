@@ -52,7 +52,10 @@ The dataset contains medical and lifestyle information from patients, focusing o
 
 2. **Install Required Libraries**
    ```bash
-   pip install -r requirements.txt
+   conda env create -f genv.yaml
+   ```
+   ```bash
+   conda activate genv
    ```
 
 3. **Run the Project**
