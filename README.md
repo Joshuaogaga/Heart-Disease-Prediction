@@ -58,21 +58,21 @@ The dataset contains medical and lifestyle information from patients, focusing o
 3. **Run the Project**
    - To preprocess the data and train the model, navigate to the `scripts/` folder and run:
      ```bash
-     python scripts/train.py
+     python scr/train.py
      ```
    - To evaluate the model and make predictions, run:
      ```bash
-     python scripts/predict.py
+     python scr/predict.py
      ```
    - If you prefer inputting your own data for prediction, run:
      ```bash
-     python scripts/predict_input.py
+     python scr/predict_input.py
      ```
 
 4. **Deploy the Model (Optional)**
    - If you want to deploy the model as a web application using Streamlit, run:
      ```bash
-     streamlit run app/app.py
+     streamlit run scr/app.py
      ```
 
 ---
@@ -90,9 +90,8 @@ The dataset contains medical and lifestyle information from patients, focusing o
 heart-disease-prediction/
 ├── data/                   # Dataset files
 ├── notebooks/              # Jupyter notebooks for EDA and modeling
-├── scripts/                # Python scripts for data preprocessing and model training
-├── models/                 # Saved models
-├── app/                    # Web application for model deployment 
+├── scr/                    # Python scripts for data preprocessing and model training
+├── models/                 # Saved models 
 ├── README.md               # Project description and instructions
 └── requirements.txt        # Dependencies
 ```
