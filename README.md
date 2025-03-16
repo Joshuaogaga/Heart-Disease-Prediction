@@ -102,7 +102,7 @@ heart-disease-prediction/
 ---
 
 ## References
-- Dataset source: [Provide dataset source if available]
+- Dataset source: [(https://www.kaggle.com/datasets/tarekmuhammed/patients-data-for-medical-field/data)]
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/)
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [Streamlit Documentation](https://docs.streamlit.io/)
