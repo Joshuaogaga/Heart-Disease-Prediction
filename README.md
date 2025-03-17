@@ -92,6 +92,7 @@ The dataset contains medical and lifestyle information from patients, focusing o
 ```
 heart-disease-prediction/
 ├── data/                   # Dataset files
+├── docs/                   # Final Report
 ├── notebooks/              # Jupyter notebooks for EDA and modeling
 ├── scr/                    # Python scripts for data preprocessing and model training
 ├── models/                 # Saved models 
